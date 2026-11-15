@@ -1,1 +1,15 @@
-[]
+[
+ {
+  "id": 2,
+  "tur": "pion",
+  "soni": 7,
+  "toifa": [],
+  "narx": 370000,
+  "foiz": 0,
+  "rasm": "florist/rasm/2-mwhmsr23-1.jpg",
+  "rasmlar": [
+   "florist/rasm/2-mwhmsr23-1.jpg"
+  ],
+  "qoshildi": "2026-11-15T09:27:42.809Z"
+ }
+]
